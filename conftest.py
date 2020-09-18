@@ -23,6 +23,7 @@ def get_option():
         opt = webdriver.ChromeOptions()
         opt.add_argument("--headless")
         opt.add_argument('--no-sandbox')
+        opt.add_argument('--disable-dev-shm-usage')
         return opt
     else:
         return None
