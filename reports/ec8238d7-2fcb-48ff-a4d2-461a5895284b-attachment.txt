@@ -1,0 +1,9 @@
+INFO     zkl:basePage.py:199 文本test012输入成功
+INFO     zkl:basePage.py:199 文本Zkl@123456789012345678901234567890输入成功
+INFO     zkl:basePage.py:181 元素('xpath', "//button[@class='el-button login-btn el-button--primary']")点击成功
+INFO     zkl:basePage.py:48 定位('xpath', "//a[contains(text(),'欢迎页')]")元素成功
+INFO     zkl:test_login.py:28 登陆成功用例执行成功
+INFO     zkl:basePage.py:181 元素('xpath', "//i[@class='el-icon-caret-bottom']")点击成功
+INFO     zkl:basePage.py:100 元素('xpath', "//span[contains(text(),'退出')]")可点击，等待时间-0.5350818634033203秒
+INFO     zkl:basePage.py:181 元素('xpath', "//span[contains(text(),'退出')]")点击成功
+INFO     zkl:conftest.py:42 登陆用例执行完毕！

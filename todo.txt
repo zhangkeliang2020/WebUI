@@ -1,0 +1,9 @@
+1、poium库使用
+2、参数化
+3、DDT
+4、allure
+5、jenkins集成
+6、上传git
+7、虫师seldom库使用
+8、全局登陆一次
+9、app crawler--app自动运行工具，可以用来遍历
