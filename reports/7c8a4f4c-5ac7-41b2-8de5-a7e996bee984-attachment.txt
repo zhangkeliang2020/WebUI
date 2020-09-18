@@ -1,9 +1,0 @@
-2020-09-17 15:50:04,441 --[conftest.py-->line:36] - INFO:开始执行登陆用例！
-2020-09-17 15:50:09,235 --[basePage.py-->line:199] - INFO:文本zkl输入成功
-2020-09-17 15:50:09,309 --[basePage.py-->line:199] - INFO:文本Zkl@20161234输入成功
-2020-09-17 15:50:09,351 --[basePage.py-->line:181] - INFO:元素('xpath', "//button[@class='el-button login-btn el-button--primary']")点击成功
-2020-09-17 15:50:10,040 --[basePage.py-->line:48] - INFO:定位('xpath', "//a[contains(text(),'欢迎页')]")元素成功
-2020-09-17 15:50:10,040 --[test_login.py-->line:28] - INFO:登陆成功用例执行成功
-2020-09-17 15:50:10,229 --[basePage.py-->line:181] - INFO:元素('xpath', "//i[@class='el-icon-caret-bottom']")点击成功
-2020-09-17 15:50:10,776 --[basePage.py-->line:100] - INFO:元素('xpath', "//span[contains(text(),'退出')]")可点击，等待时间-0.5466861724853516秒
-2020-09-17 15:50:10,996 --[basePage.py-->line:181] - INFO:元素('xpath', "//span[contains(text(),'退出')]")点击成功
