@@ -22,6 +22,7 @@ def get_option():
     if conf.getboolean('env', 'headless'):  # 判断配置文件中headless参数是否为true
         opt = webdriver.ChromeOptions()
         opt.add_argument("--headless")
+        opt.add_argument('--no-sandbox')
         return opt
     else:
         return None
