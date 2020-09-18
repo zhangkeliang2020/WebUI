@@ -9,5 +9,6 @@ out
 gen
 .gitignore
 
-reports
+reports/
 todo.txt
+
